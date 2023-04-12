@@ -5,5 +5,5 @@ Specification-Version: 1
 Implementation-Title: MasCapitosMod
 Implementation-Version: 1.0
 Implementation-Vendor: mascapitosmodsareus
-Implementation-Timestamp: 2023-04-12T11:06:41-0500
+Implementation-Timestamp: 2023-04-12T15:51:12-0500
 
