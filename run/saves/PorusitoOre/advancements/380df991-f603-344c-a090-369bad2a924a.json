@@ -1,7 +1,20 @@
 {
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "tropical_fish": "2023-04-13 20:39:13 -0500"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-04-13 20:39:13 -0500"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2023-04-12 18:37:44 -0500",
+      "minecraft:beach": "2023-04-13 20:38:10 -0500",
       "minecraft:forest": "2023-04-12 18:39:02 -0500",
       "minecraft:ocean": "2023-04-12 18:39:04 -0500"
     },
